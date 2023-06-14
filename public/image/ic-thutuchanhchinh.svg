@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-1057 -209) translate(1057 209)">
+                <circle cx="42.5" cy="42.5" r="42.5" fill="#FFF"/>
+                <g>
+                    <path stroke="#344154" stroke-width="1.043" d="M0 0H29.503V40.543H0z" transform="translate(22 19)"/>
+                    <path stroke="#344154" stroke-width="1.043" d="M29.506 3.558L33.061 3.558 33.061 44.101 3.558 44.101 3.558 40.543M3.558 3.558H13.715V13.715H3.558zM2.974 20.296L26.417 20.296M2.974 24.386L26.417 24.386M16.918 3.558L26.417 3.558M16.918 7.283L26.417 7.283M2.974 28.477L26.417 28.477M26.417 36.8L18.31 36.8" transform="translate(22 19)"/>
+                    <path fill="#35B0CB" fill-rule="nonzero" d="M18.31 32.397H26.418V34.824999999999996H18.31z" transform="translate(22 19)"/>
+                    <path fill="#FF6D3B" fill-rule="nonzero" d="M5.66 11.61h5.95V5.66s-1.822 4.232-5.95 5.95z" transform="translate(22 19)"/>
+                    <path stroke="#344154" stroke-width="1.043" d="M37.322 21.84H39.861000000000004V37.137H37.322z" transform="translate(22 19) rotate(180 38.591 29.489)"/>
+                    <path stroke="#344154" stroke-width="1.043" d="M38.894 41.54h-.584c-.54 0-.978-.437-.978-.977v-3.426h2.54v3.426c0 .54-.438.978-.978.978h0zM38.591 41.541L38.591 44.101M39.86 21.837h-2.538v-1.562c0-.26.103-.508.286-.691.183-.184.432-.287.691-.287h.595c.54 0 .977.438.977.978v1.562h-.01z" transform="translate(22 19)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
