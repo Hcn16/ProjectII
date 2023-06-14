@@ -1,0 +1,92 @@
+.menu_tbao {
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+    color: black;
+    display: flex;
+}
+
+.menu_tbao .menu {
+    margin-left: 20%;
+    width: 15%;
+    height: 500px;
+    background: #ddd;
+    float: left;
+}
+
+.menu_tbao .content {
+    margin-left: 5%;
+    float: right;
+    width: 70%;
+    height: 500px;
+    display: block;
+    background-color: white;
+    transition: 0.3s;
+}
+
+.menu_tbao .menu ul li a {
+    color: black;
+    padding-top: 10px;
+}
+
+.menu_tbao .menu ul li :hover {
+    color: red;
+    font-size: 18px;
+    border-bottom: 1px solid blue;
+}
+
+.menu_tbao .menu ul li ul li {
+    font-size: medium;
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+.menu_tbao .content .head {
+    height: 20px;
+}
+
+.menu_tbao .content .line1 {
+    height: 3px;
+    width: 60%;
+    background-color: brown;
+}
+
+.sub_tintuc {
+    height: auto;
+    background-color: #ddd;
+    margin-top: 10px;
+    width: 700px;
+    font-size: medium;
+    padding: 10px 10px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.sub_tintuc a {
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.content .tab {
+    display: none;
+    height: 450px;
+}
+
+.content .btn_next_page {
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    background-color: #ddd;
+    display: flex;
+}
+
+.content .btn_next_page .page {
+    margin-left: 0;
+    border: 0.25px solid #ddd;
+    padding: 4px 10px;
+    background-color: burlywood;
+}
+
+.content .btn_next_page .page .active {
+    background-color: red;
+}

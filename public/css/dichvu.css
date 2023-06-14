@@ -1,0 +1,46 @@
+/* ------------------------ noi dung ------------ */
+
+.noidung {
+    width: 100%;
+    height: auto;
+}
+
+.noidung ul {
+    list-style-type: none;
+    margin: 50px 150px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.noidung ul li {
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-color: #e6ffff;
+    margin: 10px 5px;
+    display: block;
+    padding: 5px 10px;
+}
+
+.noidung ul li div {
+    font-size: large;
+    text-align: center;
+}
+
+.noidung ul li p {
+    font-size: large;
+    text-align: center;
+}
+
+.noidung ul li img {
+    margin: 2px 70px;
+}
+
+.noidung .DV .dichvu .dichvu_action {
+    text-decoration: none;
+}
+
+.noidung ul li a {
+    text-decoration: none;
+    color: black;
+}

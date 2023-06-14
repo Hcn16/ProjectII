@@ -1,0 +1,17 @@
+.Parent .btn_next_page .page {
+    border: 0px;
+    Margin: 1px 3px;
+    color: black;
+    padding: 5px 5px;
+}
+
+.btn_next_page .page.active {
+    border: 0px;
+    border-bottom: 3px solid red;
+}
+
+.btn_next_page {
+    padding-left: 50px;
+    background-color: #cccccc;
+    display: flex;
+}
